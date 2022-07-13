@@ -10,7 +10,7 @@ class NetworkStatusChecker(private val connectivityManager: ConnectivityManager?
 
         val capabilities = connectivityManager.getNetworkCapabilities(network) ?: return false
 
-        //if capabilities is WIFI/CELLULAR/VPN true
+        //if capabilities is WIFI/CELLULAR/VPN true 
         return capabilities.hasTransport(NetworkCapabilities.TRANSPORT_WIFI) ||
                 capabilities.hasTransport(NetworkCapabilities.TRANSPORT_CELLULAR) ||
                 capabilities.hasTransport(NetworkCapabilities.TRANSPORT_VPN)
