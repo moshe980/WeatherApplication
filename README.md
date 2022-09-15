@@ -1,5 +1,5 @@
 # WeatherApplication
-##Android application that shows current weather and address according to your location and weather information of any location in the world.
+Android application that shows current weather and address according to your location and weather information of any location in the world.
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/57193257/190461674-1ae72d95-cb0f-4914-96c9-2e9383bc8921.png)
