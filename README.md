@@ -8,7 +8,7 @@ Android application that shows current weather and address according to your loc
 ## Built With
 - kotlin
 - Google map api
-- ambee api
+- Ambee api
 
 ## Libraries & Dependencies
 - Constraintlayout
