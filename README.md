@@ -7,20 +7,21 @@
 
 ## Built With
 - kotlin
+- Google map api
+- ambee api
 
 ## Libraries & Dependencies
-• Google map api
-• Constraintlayout
-• navigation component
-• Work manager
-• Room
-• MVVM architecture
-• Retrofit
-• Dependency injection.
-• Flow
-• Coroutines
-• Glide
-• Geocoder
+- Constraintlayout
+- Navigation component
+- Work manager
+- Room
+- MVVM architecture
+- Retrofit
+- Dependency injection.
+- Flow
+- Coroutines
+- Glide
+- Geocoder
 
 ## Author
 **Moshe Yaakov**
